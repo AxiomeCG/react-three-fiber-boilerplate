@@ -1,7 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import "./App.scss";
-import { Sphere } from "@react-three/drei";
-import { OrbitControls } from "@react-three/drei";
+import { OrbitControls, Sphere } from "@react-three/drei";
 
 function App() {
   return (
