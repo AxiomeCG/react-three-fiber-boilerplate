@@ -47,8 +47,8 @@ devDependencies:
     specifier: ^0.164.0
     version: 0.164.0
   '@vitejs/plugin-react':
-    specifier: ^4.2.1
-    version: 4.2.1(vite@5.2.11)
+    specifier: ^4.3.1
+    version: 4.3.1(vite@5.2.11)
   typescript:
     specifier: ^5.4.5
     version: 5.4.5
@@ -1340,8 +1340,8 @@ packages:
       react: 18.3.1
     dev: false
 
-  /@vitejs/plugin-react@4.2.1(vite@5.2.11):
-    resolution: {integrity: sha512-oojO9IDc4nCUUi8qIR11KoQm0XFFLIwsRBwHRR4d/88IWghn1y6ckz/bJ8GHDCsYEJee8mDzqtJxh15/cisJNQ==}
+  /@vitejs/plugin-react@4.3.1(vite@5.2.11):
+    resolution: {integrity: sha512-m/V2syj5CuVnaxcUJOQRel/Wr31FFXRFlnOoq1TVtkCxsY5veGMTEmpWHndrhB2U8ScHtCQB1e+4hWYExQc6Lg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^4.2.0 || ^5.0.0
