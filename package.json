@@ -17,7 +17,7 @@
     "postprocessing": "^6.35.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "sass": "^1.77.2",
+    "sass": "^1.77.6",
     "three": "^0.164.1"
   },
   "devDependencies": {
